@@ -1,0 +1,13 @@
+# r4 build ignores — angry-judge short rant entry, round 4
+# keep the repo clean of local run artefacts and editor clutter
+__pycache__/
+*.pyc
+*.pyo
+.output/
+entry.txt
+transcripts.tar.gz
+bundle.tar.gz
+.DS_Store
+*.swp
+*~
+.vscode/
